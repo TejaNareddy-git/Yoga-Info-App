@@ -35,3 +35,15 @@ The **Yoga Info App** is an Android application developed in Java that helps use
 
 1. Clone the repository:
    git clone https://github.com/yourusername/YogaInfoApp.git
+
+  ** Future Goals**
+
+•  Add Search and Filter Options for easier navigation.
+•  Introduce Difficulty Levels: Beginner, Intermediate, Advanced.
+•  Integration with Firebase to dynamically load poses and updates.
+•  Text-to-Speech Feature to help users follow instructions hands-free.
+•  Timer & Reminder Functionality for guided practice sessions.
+•  User Profiles & Progress Tracking to make it more engaging.
+•  Dark Mode and theme options.
+•  Multilingual Support for broader reach
+
